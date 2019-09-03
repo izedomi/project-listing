@@ -5,6 +5,8 @@
 
 - Simple, intuitive layouts of projects
 - Laraval pagination
+- File upload of project in docx and pdf format
+- Download link for project files
 - Search through all project listings
 - Laravel authentication for admin
 - CRUD functionality for admin

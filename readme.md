@@ -1,7 +1,7 @@
 <p align="center">PROJECT-LISTING</p>
 
 
-##FEATURES
+## FEATURES
 
 - Simple, intuitive layouts of projects
 - Laraval pagination
